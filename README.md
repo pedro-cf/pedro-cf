@@ -10,13 +10,7 @@ I'm Pedro, a software engineer from Porto, Portugal :portugal: . I specialize in
 
 ## 🌱 I’m currently learning
 
-- The Go programming language and its use in building high-performance services.
 - Best practices for data warehousing and big data processing using Apache Spark.
-
-## 👯 I’m looking to collaborate on
-
-- Open source projects related to geospatial data, data engineering, and back-end development.
-- Anything that involves solving challenging problems and making a positive impact on the world.
 
 ## 📫 How to reach me
 
