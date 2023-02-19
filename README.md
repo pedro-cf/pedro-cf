@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**pedro-cf/pedro-cf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro, a software engineer from Porto, Portugal :portugal: . I specialize in building back-end and data systems, particularly those involving geospatial and maritime vessel data. I'm passionate about programming and love creating apps that can make a difference.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing a geospatial data pipeline using Python and PostgreSQL.
+- Building a scalable back-end architecture for a maritime vessel tracking application.
+- PostGIS and spatial database management for geospatial data analysis.
+
+## 🌱 I’m currently learning
+
+- The Go programming language and its use in building high-performance services.
+- Best practices for data warehousing and big data processing using Apache Spark.
+
+## 👯 I’m looking to collaborate on
+
+- Open source projects related to geospatial data, data engineering, and back-end development.
+- Anything that involves solving challenging problems and making a positive impact on the world.
+
+## 📫 How to reach me
+
+- You can find me on [LinkedIn](https://www.linkedin.com/in/pedrofernandespt/).
+
+## ☕ Support
+
+If you find my projects useful, consider buying me a coffee! Donations help keep my projects going and are greatly appreciated.
+
+[![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/pedro_cf)
+
+
+Thanks for stopping by, and feel free to check out my repositories! 👨‍💻
+
