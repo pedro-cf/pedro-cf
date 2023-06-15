@@ -4,7 +4,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 
 ## 🔭 I’m currently working on
 
-- Developing a geospatial data pipeline using Python and PostgreSQL.
+- Developing a geospatial data pipelines using Python, PostgreSQL, Apache Airflow, Min.IO.
 - Building a scalable back-end architecture for a maritime vessel tracking application.
 - PostGIS and spatial database management for geospatial data analysis.
 
