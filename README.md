@@ -11,6 +11,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 ## 🌱 I’m currently learning
 
 - Best practices for data warehousing and big data processing using Apache Spark.
+- SpatioTemporal Asset Catalogs: [STAC](https://stacspec.org/en)
 
 ## 📫 How to reach me
 
