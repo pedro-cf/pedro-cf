@@ -24,5 +24,5 @@ If you find my projects useful, consider buying me a coffee! Donations help keep
 [![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/pedro_cf)
 
 
-Thanks for stopping by, and feel free to check out my repositories! 👨‍💻
+Thanks for stopping by, and feel free to check out my [repositories](https://github.com/pedro-cf?tab=repositories)! 👨‍💻
 
