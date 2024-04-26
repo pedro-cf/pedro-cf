@@ -7,7 +7,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 - Developing a geospatial data pipelines with Apache Airflow.
 - Building a scalable back-end architecture for a maritime vessel tracking application.
 - PostGIS and spatial database management for geospatial data analysis.
-- SpatioTemporal Asset Catalogs: [STAC](https://stacspec.org/en)
+- SpatioTemporal Asset Catalogs ([STAC](https://stacspec.org/en)) APIs
 
 ## 🌱 I’m currently learning
 
