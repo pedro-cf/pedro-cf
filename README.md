@@ -4,14 +4,14 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 
 ## 🔭 I’m currently working on
 
-- Developing a geospatial data pipelines using Python, PostgreSQL, Apache Airflow, Min.IO.
+- Developing a geospatial data pipelines with Apache Airflow.
 - Building a scalable back-end architecture for a maritime vessel tracking application.
 - PostGIS and spatial database management for geospatial data analysis.
+- SpatioTemporal Asset Catalogs: [STAC](https://stacspec.org/en)
 
 ## 🌱 I’m currently learning
 
 - Best practices for data warehousing and big data processing using Apache Spark.
-- SpatioTemporal Asset Catalogs: [STAC](https://stacspec.org/en)
 
 ## 📫 How to reach me
 
