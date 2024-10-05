@@ -39,7 +39,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0E76A8?style=for-the-badge&logo=devops&logoColor=white) <br>
+![On-Premises Deployments](https://img.shields.io/badge/On-Premises%20Deployments-0078D4?style=for-the-badge&logo=homeassistant&logoColor=white) <br>
 ![STAC](https://img.shields.io/badge/STAC-%23007C92.svg?style=for-the-badge&logo=spatial&logoColor=white)
 ![Geoserver](https://img.shields.io/badge/Geoserver-3B8CBA?style=for-the-badge&logo=geoserver&logoColor=white)
 ![Mapstore](https://img.shields.io/badge/Mapstore-FF6F00?style=for-the-badge&logo=mapstore&logoColor=white)
