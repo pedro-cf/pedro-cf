@@ -1,7 +1,8 @@
 # Hi there 👋
 
-I'm Pedro, a software engineer from Porto, Portugal. I specialize in building back-end and data systems, particularly those involving geospatial data. I'm passionate about programming and love creating apps that can make a difference.
+I’m Pedro, a software engineer from Porto, Portugal. My main focus is on building back-end systems and working with data, with a particular emphasis on geospatial projects. I’m passionate about coding and enjoy creating apps that have a meaningful impact.
 
+These days, I work primarily as a data engineer, where I build scalable pipelines and manage complex datasets. I also handle the production side of machine learning models, using Python and MLflow to ensure they’re ready for deployment. In addition, I’ve developed numerous APIs to streamline data processing and integration.
 ## 🔭 I’m currently working on
 
 - Developing a geospatial data pipelines with Apache Airflow.
