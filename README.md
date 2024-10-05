@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Pedro, a software engineer from Porto, Portugal. I specialize in building back-end and data systems, particularly those involving geospatial and maritime vessel data. I'm passionate about programming and love creating apps that can make a difference.
+I'm Pedro, a software engineer from Porto, Portugal. I specialize in building back-end and data systems, particularly those involving geospatial data. I'm passionate about programming and love creating apps that can make a difference.
 
 ## 🔭 I’m currently working on
 
