@@ -18,8 +18,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) <br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -42,9 +41,9 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0E76A8?style=for-the-badge&logo=devops&logoColor=white) <!-- Added badge -->
 
-![STAC](https://img.shields.io/badge/STAC-%23007C92.svg?style=for-the-badge&logo=spatial&logoColor=white) <!-- Fixed logo -->
-![Geoserver](https://img.shields.io/badge/Geoserver-3B8CBA?style=for-the-badge&logo=geoserver&logoColor=white) <!-- Added badge -->
-![Mapstore](https://img.shields.io/badge/Mapstore-FF6F00?style=for-the-badge&logo=mapstore&logoColor=white) <!-- Added badge -->
+![STAC](https://img.shields.io/badge/STAC-%23007C92.svg?style=for-the-badge&logo=spatial&logoColor=white)
+![Geoserver](https://img.shields.io/badge/Geoserver-3B8CBA?style=for-the-badge&logo=geoserver&logoColor=white)
+![Mapstore](https://img.shields.io/badge/Mapstore-FF6F00?style=for-the-badge&logo=mapstore&logoColor=white)
 
 ## 📫 How to reach me
 
