@@ -19,7 +19,7 @@ I'm Pedro, a software engineer from Porto, Portugal. I specialize in building ba
 
 ## 📫 How to reach me
 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/pedrofernandespt/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrofernandespt) 
 
 ## ☕ Support
 
