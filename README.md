@@ -1,15 +1,17 @@
 # Hi there 👋
 
-I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow and Docker to turn raw spatial data into reliable, production ready services. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
+I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow, Docker and FastAPI to turn raw spatial data into reliable, production ready services and APIs. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
 
-Day to day I move between data engineering, platform work and applied machine learning. I enjoy taking messy real world data, shaping it into well designed workflows and shipping solutions that other teams can actually use. I care about clear architecture, clean code and good collaboration across data, infra and product teams.
+My work moves between data engineering, platform integration and applied machine learning. I like abstracting ML jobs into reusable tasks instead of one off scripts, and shaping messy real world data into well designed workflows that other teams can actually use. I care about clear architecture, clean code, sensible CI/CD and good collaboration with data, platform and DevOps teams.
 
-Areas I work with:
-- AI and ML driven data pipelines
-- Geospatial and remote sensing data
-- Workflow orchestration with Airflow
-- Containerisation and dev experience with Docker
-- Monitoring, reliability and continuous improvement of data systems
+Areas I work with
+• AI and ML driven data pipelines
+• Geospatial and remote sensing data
+• Workflow orchestration with Airflow
+• Backend and data APIs with FastAPI
+• Containerisation and developer experience with Docker
+• Pipeline architecture, ML job abstraction and configuration driven workflows
+• Monitoring, CI/CD and continuous improvement of data systems
 
 I am always open to connecting with people working on data platforms, geospatial products or applied AI.
 
