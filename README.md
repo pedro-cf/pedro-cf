@@ -5,13 +5,13 @@ I design and run AI and ML data pipelines for geospatial products. I work mostly
 My work moves between data engineering, platform integration and applied machine learning. I like abstracting ML jobs into reusable tasks instead of one off scripts, and shaping messy real world data into well designed workflows that other teams can actually use. I care about clear architecture, clean code, sensible CI/CD and good collaboration with data, platform and DevOps teams.
 
 Areas I work with
-• AI and ML driven data pipelines
-• Geospatial and remote sensing data
-• Workflow orchestration with Airflow
-• Backend and data APIs with FastAPI
-• Containerisation and developer experience with Docker
-• Pipeline architecture, ML job abstraction and configuration driven workflows
-• Monitoring, CI/CD and continuous improvement of data systems
+- AI and ML driven data pipelines
+- Geospatial and remote sensing data
+- Workflow orchestration with Airflow
+- Backend and data APIs with FastAPI
+- Containerisation and developer experience with Docker
+- Pipeline architecture, ML job abstraction and configuration driven workflows
+- Monitoring, CI/CD and continuous improvement of data systems
 
 I am always open to connecting with people working on data platforms, geospatial products or applied AI.
 
