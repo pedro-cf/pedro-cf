@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Pedro, a software engineer from Porto, Portugal. I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow and Docker to turn raw spatial data into reliable, production ready services. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
+I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow and Docker to turn raw spatial data into reliable, production ready services. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
 
 Day to day I move between data engineering, platform work and applied machine learning. I enjoy taking messy real world data, shaping it into well designed workflows and shipping solutions that other teams can actually use. I care about clear architecture, clean code and good collaboration across data, infra and product teams.
 
