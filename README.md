@@ -1,6 +1,17 @@
 # Hi there 👋
 
-I'm Pedro, a software engineer from Porto, Portugal. I design and build end-to-end data platforms, focusing on geospatial systems, vessel tracking, and satellite imagery processing. I work on everything from backend APIs and data pipelines to database architecture and machine learning deployment. Currently building geospatial data platforms with STAC APIs, PostGIS, Airflow workflows, and high-availability systems..
+I'm Pedro, a software engineer from Porto, Portugal. I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow and Docker to turn raw spatial data into reliable, production ready services. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
+
+Day to day I move between data engineering, platform work and applied machine learning. I enjoy taking messy real world data, shaping it into well designed workflows and shipping solutions that other teams can actually use. I care about clear architecture, clean code and good collaboration across data, infra and product teams.
+
+Areas I work with
+• AI and ML driven data pipelines
+• Geospatial and remote sensing data
+• Workflow orchestration with Airflow
+• Containerisation and dev experience with Docker
+• Monitoring, reliability and continuous improvement of data systems
+
+I am always open to connecting with people working on data platforms, geospatial products or applied AI.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
