@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I design and run AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow, Docker and FastAPI to turn raw spatial data into reliable, production ready services and APIs. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
+I design and build AI and ML data pipelines for geospatial products. I work mostly with Python, Airflow, Docker and FastAPI to turn raw spatial data into reliable, production ready services and APIs. My focus is on building pipelines that are robust, observable and easy to evolve as business needs change.
 
 My work moves between data engineering, platform integration and applied machine learning. I like abstracting ML jobs into reusable tasks instead of one off scripts, and shaping messy real world data into well designed workflows that other teams can actually use. I care about clear architecture, clean code, sensible CI/CD and good collaboration with data, platform and DevOps teams.
 
